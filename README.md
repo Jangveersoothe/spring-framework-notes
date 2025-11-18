@@ -1,8 +1,8 @@
 
 # Spring Framework Notes
 
-## Author
-[Onurcan Sever](https://github.com/onsever)
+# Notes based on the original work by [Onurcan Sever](https://github.com/onsever)
+# Modified and expanded by https://github.com/Jangveersoothe
   
 ## Jakarta EE vs J2EE vs Java EE  
 * Jakarta EE (Jakarta Platform, Enterprise Edition)  
